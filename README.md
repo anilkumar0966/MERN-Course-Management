@@ -26,6 +26,3 @@ Backend
 - Express.js
 - MongoDB
 - Mongoose
-
-## 📂 Project Structure
-
